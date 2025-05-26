@@ -429,7 +429,7 @@ a {
 }
 
 #blog .blog-thumb:hover {
-  background: url('../images/thumb-blog.png');
+  background: url('../images/blog-thumb.png');
    -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
